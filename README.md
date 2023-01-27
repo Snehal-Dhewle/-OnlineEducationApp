@@ -2,7 +2,6 @@
 
 It is the React Native Application .
 The app is the preview of the Online Education App in React Native. 
-we can run the app on Emulator, Mobile, and also on Web Browser.
 
 Features :
 
